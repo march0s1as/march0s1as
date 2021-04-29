@@ -1,3 +1,3 @@
 Oi.
 - 🔭 curto hacking;
-- 🌱 death to windows;
+- 🌱 death to windows.
